@@ -1,0 +1,8 @@
+C:/ncnn-master/ncnn-master/windows/install/lib/ncnn.lib
+C:/ncnn-master/ncnn-master/windows/install/include/blob.h
+C:/ncnn-master/ncnn-master/windows/install/include/cpu.h
+C:/ncnn-master/ncnn-master/windows/install/include/layer.h
+C:/ncnn-master/ncnn-master/windows/install/include/mat.h
+C:/ncnn-master/ncnn-master/windows/install/include/net.h
+C:/ncnn-master/ncnn-master/windows/install/include/opencv.h
+C:/ncnn-master/ncnn-master/windows/install/include/platform.h

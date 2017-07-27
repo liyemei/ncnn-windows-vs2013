@@ -1,0 +1,12 @@
+﻿生成启动时间为 2017/7/27 22:42:48。
+     1>项目“C:\ncnn-master\ncnn-master\windows\ZERO_CHECK.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/ncnn-master/ncnn-master/windows/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/ncnn-master/ncnn-master/windows/src/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/ncnn-master/ncnn-master/windows/tools/CMakeFiles/generate.stamp is up-to-date.
+     1>已完成生成项目“C:\ncnn-master\ncnn-master\windows\ZERO_CHECK.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.25

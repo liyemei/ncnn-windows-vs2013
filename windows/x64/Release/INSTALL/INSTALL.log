@@ -1,0 +1,27 @@
+﻿生成启动时间为 2017/7/27 21:08:20。
+     1>项目“C:\ncnn-master\ncnn-master\windows\INSTALL.vcxproj”在节点 2 上(Build 个目标)。
+     1>PostBuildEvent:
+         setlocal
+         "C:\Program Files\CMake\bin\cmake.exe" -DBUILD_TYPE=Release -P cmake_install.cmake
+         if %errorlevel% neq 0 goto :cmEnd
+         :cmEnd
+         endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+         :cmErrorLevel
+         exit /b %1
+         :cmDone
+         if %errorlevel% neq 0 goto :VCEnd
+         :VCEnd
+         -- Install configuration: "Release"
+         -- Installing: C:/ncnn-master/ncnn-master/windows/install/lib/ncnn.lib
+         -- Installing: C:/ncnn-master/ncnn-master/windows/install/include/blob.h
+         -- Installing: C:/ncnn-master/ncnn-master/windows/install/include/cpu.h
+         -- Installing: C:/ncnn-master/ncnn-master/windows/install/include/layer.h
+         -- Installing: C:/ncnn-master/ncnn-master/windows/install/include/mat.h
+         -- Installing: C:/ncnn-master/ncnn-master/windows/install/include/net.h
+         -- Installing: C:/ncnn-master/ncnn-master/windows/install/include/opencv.h
+         -- Installing: C:/ncnn-master/ncnn-master/windows/install/include/platform.h
+     1>已完成生成项目“C:\ncnn-master\ncnn-master\windows\INSTALL.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.14

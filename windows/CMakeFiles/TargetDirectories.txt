@@ -1,0 +1,8 @@
+C:/ncnn-master/ncnn-master/windows/CMakeFiles/INSTALL.dir
+C:/ncnn-master/ncnn-master/windows/CMakeFiles/ALL_BUILD.dir
+C:/ncnn-master/ncnn-master/windows/CMakeFiles/ZERO_CHECK.dir
+C:/ncnn-master/ncnn-master/windows/src/CMakeFiles/ncnn.dir
+C:/ncnn-master/ncnn-master/windows/src/CMakeFiles/INSTALL.dir
+C:/ncnn-master/ncnn-master/windows/tools/CMakeFiles/caffe2ncnn.dir
+C:/ncnn-master/ncnn-master/windows/tools/CMakeFiles/ncnn2mem.dir
+C:/ncnn-master/ncnn-master/windows/tools/CMakeFiles/INSTALL.dir

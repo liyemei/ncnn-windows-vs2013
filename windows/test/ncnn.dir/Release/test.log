@@ -1,0 +1,58 @@
+﻿生成启动时间为 2017/7/27 23:08:00。
+     1>项目“C:\ncnn-master\ncnn-master\windows\test\test.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\ncnn-master\ncnn-master\windows\src\Release\squeezenet.exe" /NOLOGO opencv_world310.lib opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\ncnn-master\ncnn-master\windows\src\Release\squeezenet.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\ncnn-master\ncnn-master\windows\src\Release\squeezenet.lib" /MACHINE:X64 ncnn.dir\Release\squeezenet.obj
+         ncnn.dir\Release\blob.obj
+         ncnn.dir\Release\cpu.obj
+         ncnn.dir\Release\layer.obj
+         ncnn.dir\Release\mat.obj
+         ncnn.dir\Release\mat_pixel.obj
+         ncnn.dir\Release\net.obj
+         ncnn.dir\Release\opencv.obj
+         ncnn.dir\Release\absval.obj
+         ncnn.dir\Release\argmax.obj
+         ncnn.dir\Release\batchnorm.obj
+         ncnn.dir\Release\bias.obj
+         ncnn.dir\Release\bnll.obj
+         ncnn.dir\Release\concat.obj
+         ncnn.dir\Release\convolution.obj
+         ncnn.dir\Release\convolution_x86.obj
+         ncnn.dir\Release\crop.obj
+         ncnn.dir\Release\deconvolution.obj
+         ncnn.dir\Release\dropout.obj
+         ncnn.dir\Release\eltwise.obj
+         ncnn.dir\Release\elu.obj
+         ncnn.dir\Release\embed.obj
+         ncnn.dir\Release\exp.obj
+         ncnn.dir\Release\flatten.obj
+         ncnn.dir\Release\innerproduct.obj
+         ncnn.dir\Release\input.obj
+         ncnn.dir\Release\log.obj
+         ncnn.dir\Release\lrn.obj
+         ncnn.dir\Release\memorydata.obj
+         ncnn.dir\Release\mvn.obj
+         ncnn.dir\Release\pooling.obj
+         ncnn.dir\Release\power.obj
+         ncnn.dir\Release\prelu.obj
+         ncnn.dir\Release\proposal.obj
+         ncnn.dir\Release\reduction.obj
+         ncnn.dir\Release\relu.obj
+         ncnn.dir\Release\reshape.obj
+         ncnn.dir\Release\roipooling.obj
+         ncnn.dir\Release\scale.obj
+         ncnn.dir\Release\sigmoid.obj
+         ncnn.dir\Release\slice.obj
+         ncnn.dir\Release\softmax.obj
+         ncnn.dir\Release\split.obj
+         ncnn.dir\Release\spp.obj
+         ncnn.dir\Release\tanh.obj
+         ncnn.dir\Release\threshold.obj
+         ncnn.dir\Release\tile.obj
+         ncnn.dir\Release\rnn.obj
+         ncnn.dir\Release\lstm.obj
+         test.vcxproj -> C:\ncnn-master\ncnn-master\windows\src\Release\squeezenet.exe
+     1>已完成生成项目“C:\ncnn-master\ncnn-master\windows\test\test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.41

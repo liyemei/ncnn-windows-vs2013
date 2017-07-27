@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\blob.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\cpu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\mat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\mat_pixel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\net.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\opencv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\absval.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\argmax.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\batchnorm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\bias.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\bnll.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\concat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\convolution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\x86\convolution_x86.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\crop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\deconvolution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\dropout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\eltwise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\elu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\embed.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\exp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\flatten.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\innerproduct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\lrn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\memorydata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\mvn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\pooling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\power.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\prelu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\proposal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\reduction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\relu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\reshape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\roipooling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\scale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\sigmoid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\slice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\softmax.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\split.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\spp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\tanh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\threshold.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\rnn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ncnn-master\ncnn-master\src\layer\lstm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\examples\squeezenet.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\ncnn-master\ncnn-master\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{22D4A273-2A46-3E55-936C-561E17AD6267}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

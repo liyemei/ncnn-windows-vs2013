@@ -1,0 +1,9 @@
+﻿生成启动时间为 2017/7/27 22:55:20。
+     1>项目“C:\ncnn-master\ncnn-master\windows\src\ncnn.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         ncnn.vcxproj -> C:\ncnn-master\ncnn-master\windows\src\Release\test.exe
+     1>已完成生成项目“C:\ncnn-master\ncnn-master\windows\src\ncnn.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.09
